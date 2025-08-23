@@ -1,0 +1,44 @@
+#EXTINF:-1, ZTV
+https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
+#EXTINF:-1, Ninja Channel
+https://mitv.zplay.cl/Ninja_Channel/video.m3u8?token=D4lm1R0m-tFJES
+#EXTINF:-1,Canal 41 Bayres
+https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w368340376.m3u8
+#EXTINF:-1,Teleanimemania LA
+https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a2/mono.ts.m3u8
+#EXTINF:-1,Invasiva TV
+https://tv.invasivamedia.com/hls/limtv.m3u8
+#EXTINF:-1,Casa Grande TV
+https://live20.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
+#EXTINF:-1,Wow Movies
+https://live20.bozztv.com/giatv/giatv-wowmovies/wowmovies/playlist.m3u8
+#EXTINF:-1,Animestation
+https://stmv4.voxtvhd.com.br/tv101/tv101/playlist.m3u8
+#EXTINF:-1,Locomotion
+http://85.239.54.197:81/live/loco_hi/index.m3u8
+#EXTINF:-1,Toonami TV
+https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
+#EXTINF:-1,Zyoon TV
+https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
+#EXTINF:-1,Anime Visión
+https://jmp2.uk/stvp-ES300029LP
+#EXTINF:-1,Kanade TV
+https://streams.kanade.cl/webtv/kanadeweb/playlist.m3u8?token=deM0kanADeweB
+#EXTINF:-1,Kanade TV Brasil
+https://streams.kanade.cl/webtv/kanadebr/playlist.m3u8?token=deM0kanADeweB
+#EXTINF:-1,Varied TV
+https://live20.bozztv.com/akamaissh101/ssh101/variedtvonline/playlist.m3u8
+#EXTINF:-1,Dreiko TV
+https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
+#EXTINF:-1,Magic Kids
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1, Retro Mágico
+https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
+#EXTINF:-1, Magic Kids OK
+https://xui-backend.energeek.cl/live/dEmoweBeneRGEek2025/TG66MDvVi9to/7.m3u8
+#EXTINF:-1,Cartoon Retro
+https://live20.bozztv.com/giatv/giatv-CARTOONRETRO/CARTOONRETRO/playlist.m3u8
+#EXTINF:-1,Big
+https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
+#EXTINF:-1,Retrotoons
+https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
