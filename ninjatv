@@ -1,7 +1,7 @@
 #EXTINF:-1, ZTV
 https://mitv.zplay.cl/Ztv/video.m3u8?token=D4lm1R0m-tFJES
 #EXTINF:-1, Ninja Channel
-https://mitv.zplay.cl/Ninja_Channel/video.m3u8?token=D4lm1R0m-tFJES
+https://live20.bozztv.com/giatv/giatv-ninjazargentina/ninjazargentina/chunks.m3u8
 #EXTINF:-1,Canal 41 Bayres
 https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w368340376.m3u8
 #EXTINF:-1,Teleanimemania LA
@@ -40,5 +40,5 @@ https://xui-backend.energeek.cl/live/dEmoweBeneRGEek2025/TG66MDvVi9to/7.m3u8
 https://live20.bozztv.com/giatv/giatv-CARTOONRETRO/CARTOONRETRO/playlist.m3u8
 #EXTINF:-1,Big
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
-#EXTINF:-1,Retrotoons
+#EXTINF:-1,Cartooncito
 https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
