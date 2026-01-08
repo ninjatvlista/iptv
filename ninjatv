@@ -52,15 +52,15 @@ https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,ENT Family
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Total Music
+#EXTINF:-1,TotalMusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Total Music 80's
+#EXTINF:-1,TotalMusic 80's
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Total Music 00's
+#EXTINF:-1,TotalMusic 00's
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Total Music Concerts
+#EXTINF:-1,TotalMusic Concerts
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,Total Music Dance
+#EXTINF:-1,TotalMusic Dance
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Más FM
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
@@ -136,4 +136,3 @@ https://v4.tustreaming.cl/limachemovil/tracks-v1a1/mono.ts.m3u8
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8?nimblesessionid=361457641
 #EXTINF:-1,America TV Chile
 https://v2.tustreaming.cl/radioamericatv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,
