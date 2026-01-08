@@ -16,14 +16,12 @@ https://stmv4.voxtvhd.com.br/tv101/tv101/playlist.m3u8
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1,Toonami TV
 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
-#EXTINF:-1,Zyoon TV
-https://live20.bozztv.com/giatv/giatv-ZYOONTV/ZYOONTV/playlist.m3u8
 #EXTINF:-1,Anime Visión
 https://jmp2.uk/stvp-ES300029LP
 #EXTINF:-1,Kanade TV
 https://streams.kanade.cl/webtv/kanadeweb/playlist.m3u8?token=deM0kanADeweB
 #EXTINF:-1,Loading Brasil
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+https://stmv1+.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1,Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1,Dreiko TV
@@ -38,5 +36,50 @@ https://xui-backend.energeek.cl/live/dEmoweBeneRGEek2025/TG66MDvVi9to/7.m3u8
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1,Big
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
-#EXTINF:-1,Cartooncito
-https://live20.bozztv.com/giatv/giatv-Retrotoonstv/Retrotoonstv/playlist.m3u8
+#EXTINF:-1,ENT Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Total Music
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Total Music 80's
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Total Music 00's
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Total Music Concerts
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Total Music Dance
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Energeek Fan
+https://backend.energeek.cl/webtv/egfanweb/tracks-v1a1/mono.ts.m3u8?token=dEmoweBeneRGEek2025
+#EXTINF:-1,Energeek Retro
+https://backend.energeek.cl/webtv/egretroweb/tracks-v1a1/mono.ts.m3u8?token=dEmoweBeneRGEek2025
+#EXTINF:-1,Energeek Radio
+https://backend.energeek.cl/webtv/egradioweb/tracks-v1a1/mono.ts.m3u8?token=dEmoweBeneRGEek2025
+#EXTINF:-1,MAX Anime
+https://streamlov.alsolnet.com/maxanime/live/chunklist_w1189474574.m3u8
+#EXTINF:-1,Pride TV
+https://backend.energeek.cl/webtv/pridetvweb/tracks-v1a1/mono.ts.m3u8?token=dem0pRideTVweb
+#EXTINF:-1,TL+
+https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Lanco Televisión
+https://5e3483cba9114.streamlock.net/hfvhxfwxjm/hfvhxfwxjm/chunklist_w227652854.m3u8
+#EXTINF:-1,VCONLINE
+https://panel.tvstream.cl:1936/8024/8024/chunklist_w392048589.m3u8
+#EXTINF:-1,TVO San Vicente
+https://5ff3d9babae13.streamlock.net/8014/8014/chunklist_w1208720598.m3u8
+#EXTINF:-1,Sur TV
+https://jireh-1-hls-video-br-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/surtv/livestream0/chunks.m3u8?dpssid=b2359359912695fb95c4f7e8&sid=ba5t1l1xb21644013962695fb95c4f7e6&ndvc=1
+#EXTINF:-1,TVM
+https://stream.skarnetchile.com:19360/canaltvm/canaltvm.m3u8
+#EXTINF:-1,Suyar Televisión
+https://signal.suyaitv.cl/live/36/playlist.m3u8?username=ZZNeotvCL&password=Ae2mWShURN
+#EXTINF:-1,VideoHit
+https://cdn.global.elektamedia.com/live/c7eds/VideoHit/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Fantasia TV
+https://v2.tustreaming.cl/fantasiatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Maulevisión
+https://v2.tustreaming.cl/maulevisiontv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ruidos TV
+https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8
+#EXTINF:-1,
