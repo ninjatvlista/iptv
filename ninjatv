@@ -1,5 +1,13 @@
 #EXTINF:-1, Laika Channel
 https://mitv.zplay.cl/LaikaTV/index.m3u8
+#EXTINF:-1,Kanade TV
+https://streams.kanade.cl/webtv/kanadeweb/playlist.m3u8?token=deM0kanADeweB
+#EXTINF:-1,hiBOP
+https://streams.hibop.cl/webtv/hibopla/tracks-v1a1/mono.ts.m3u8?token=deM0hiB0PweB
+#EXTINF:-1,ENT Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Canal 41 Bayres
 https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w368340376.m3u8
 #EXTINF:-1,GenTV
@@ -20,8 +28,6 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 https://live20.bozztv.com/giatv/giatv-ToonamiTV/ToonamiTV/playlist.m3u8
 #EXTINF:-1,Anime Visión
 https://jmp2.uk/stvp-ES300029LP
-#EXTINF:-1,Kanade TV
-https://streams.kanade.cl/webtv/kanadeweb/playlist.m3u8?token=deM0kanADeweB
 #EXTINF:-1,Neo TV Digital
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1,Next HD
@@ -48,10 +54,6 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/playlist.m3u8
 #EXTINF:-1,UCV Televisión
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/ucvtv2/livestream2/chunks.m3u8?nimblesessionid=614491020
-#EXTINF:-1,ENT Channel
-https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,ENT Family
-https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,TotalMusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,TotalMusic 80's
