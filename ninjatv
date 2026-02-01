@@ -1,5 +1,5 @@
-#EXTINF:-1, Laika Channel
-https://mitv.zplay.cl/LaikaTV/index.m3u8
+#EXTINF:-1, Laika Channel (Elekta)
+https://cdn.global.elektamedia.com/live/c7eds/Laika_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1,Kanade TV
 https://streams.kanade.cl/webtv/kanadeweb/playlist.m3u8?token=deM0kanADeweB
 #EXTINF:-1,hiBOP
@@ -138,3 +138,5 @@ https://v4.tustreaming.cl/limachemovil/tracks-v1a1/mono.ts.m3u8
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/ucvtveventos/livestream1/chunks.m3u8?nimblesessionid=361457641
 #EXTINF:-1,America TV Chile
 https://v2.tustreaming.cl/radioamericatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Laika Channel
+https://mitv.zplay.cl/LaikaTV/index.m3u8
