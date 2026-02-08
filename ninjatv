@@ -1,5 +1,7 @@
 #EXTINF:-1, Laika Channel
 https://mitv.zplay.cl/LaikaTV/index.m3u8
+#EXTINF:-1,Laika Channel (Opción 2)
+https://tv.invasivamedia.com/hls/Lucky.m3u8
 #EXTINF:-1,Kanade TV
 https://streams.kanade.cl/webtv/kanadeweb/playlist.m3u8?token=deM0kanADeweB
 #EXTINF:-1,hiBOP
