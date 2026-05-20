@@ -14,8 +14,10 @@ https://streaming01.mikrolive.tv/bayrestv/live/chunklist_w368340376.m3u8
 https://srv3.zcast.com.br/gentv/gentv/playlist.m3u8
 #EXTINF:-1,Teleanimemania LA
 https://live20.bozztv.com/giatvplayout7/giatv-210634/playlist.m3u8
-#EXTINF:-1,Invasiva TV
-https://tv.invasivamedia.com/hls/limtv.m3u8
+#EXTINF:-1,CN City
+https://envivo.cncity.live/hls/envivo.m3u8
+#EXTINF:-1,Retro Mágico
+https://vsd233.okcdn.ru/hls/4858246007425.m3u8/sig/5ATcTdYw3ak/expires/1779403416007/srcIp/190.55.126.213/urls/45.136.21.81/clientType/0/srcAg/CHROME/mid/6035274800769/4858246007425_high/index.m3u8
 #EXTINF:-1,Casa Grande TV
 https://live20.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
 #EXTINF:-1,Wow Movies
