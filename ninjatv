@@ -1,15 +1,17 @@
 #EXTINF:-1,Laika Magica
 https://stream.elektamedia.com/live/c7eds/Laika_Channel/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1, Retro Mágico
+https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
+#EXTINF:-1,Magic Kids TV
+https://live20.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
+#EXTINF:-1,Magic Kids
+https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 #EXTINF:-1,Laika Channel España
 https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Laika Channel Galicia
 https://live20.bozztv.com/giatvplayout7/giatv-210596/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Primired
 https://cdn.global.elektamedia.com/live/c7eds/Primired/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1,Magic Kids TV
-https://live20.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
-#EXTINF:-1,Magic Kids
-https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 #EXTINF:-1,ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,ENT Family
@@ -40,8 +42,6 @@ https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/chunks.m3u8
 https://live20.bozztv.com/giatv/giatv-TALTALTVANIMACION2/TALTALTVANIMACION2/chunks.m3u8
 #EXTINF:-1,Taltal TV
 https://live20.bozztv.com/giatv/giatv-TALTALTVHD/TALTALTVHD/chunks.m3u8
-#EXTINF:-1,Retro Mágico
-https://live20.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/chunks.m3u8
 #EXTINF:-1,Casa Grande TV
 https://live20.bozztv.com/giatv/giatv-cgtveplus/cgtveplus/playlist.m3u8
 #EXTINF:-1,Wow Movies
@@ -66,18 +66,10 @@ https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/canallms/chunks.m3u8
 #EXTINF:-1,Canal 2 Quellón
 https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8?nimblesessionid=361380535
-#EXTINF:-1,Loading Brasil
-https://stmv1+.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1,Geekdot
 https://stream.ichibantv.com:3764/hybrid/play.m3u8
 #EXTINF:-1,Dreiko TV
 https://rtv.fullhd-streaming.com:19360/dreikotv/dreikotv.m3u8
-#EXTINF:-1,Magic Kids
-https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:-1, Retro Mágico
-https://live20.bozztv.com/giatv/giatv-retromagico/retromagico/playlist.m3u8
-#EXTINF:-1, Magic Kids OK
-https://proyectomagic.b-cdn.net/live/stream_1080p.m3u8?hls_ctx=0w25u75o
 #EXTINF:-1,Wording Brasil
 https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
 #EXTINF:-1,UCV Televisión
