@@ -1,7 +1,5 @@
 #EXTINF:-1,Laika Magica
-https://stream.elektamedia.com/live/c7eds/Laika_Channel/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1,Laika Mágica (Opción 2)
-https://183.bozztv.com/giatv/giatv-laikatvla/laikatvla/chunks.m3u8
+https://183.bozztv.com/giatv/giatv-laikamagica/laikamagica/chunks.m3u8
 #EXTINF:-1,Magic Kids TV
 https://live20.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
 #EXTINF:-1,Magic Kids
