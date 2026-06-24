@@ -6,6 +6,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-209474/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-210596/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Magic Kids TV
 https://live20.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
+#EXTINF:-1,Magic Kids 2021
+https://kali.vdopanel.com:3909/stream/play.m3u8
 #EXTINF:-1,Magic Kids
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 #EXTINF:-1, Retro Mágico
