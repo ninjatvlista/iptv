@@ -10,6 +10,8 @@ https://live20.bozztv.com/giatv/giatv-magicplus/magicplus/chunks.m3u8
 https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 #EXTINF:-1, Retro Mágico
 https://183.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/chunks.m3u8
+#EXTINF:-1,Canal Familia HD VEN
+https://cdn.global.elektamedia.com/live/c7eds/Laika_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1,Laika Mágica FM
 https://stream.zeno.fm/24jwh086tczvv.m3u
 #EXTINF:-1,Primired
