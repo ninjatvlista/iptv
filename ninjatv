@@ -13,7 +13,7 @@ https://kiiroilabs.ddns.net/magickids/stream/stream.m3u8
 #EXTINF:-1, Retro Mágico
 https://183.bozztv.com/giatv/giatv-retromagicochnl/retromagicochnl/chunks.m3u8
 #EXTINF:-1,Canal Familia HD VEN
-https://lbgo.bozztv.com/ssh101/ssh101/canalfamiliahdv/chunks.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/canalfamiliahdv/chunks.m3u8?lb_backend_hint=6
 #EXTINF:-1,Laika Mágica FM
 https://stream.zeno.fm/24jwh086tczvv.m3u
 #EXTINF:-1,Primired
