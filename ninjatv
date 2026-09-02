@@ -1,5 +1,5 @@
 #EXTINF:-1,Luchy TV
-https://183.bozztv.com/giatv/giatv-luchytv/luchytv/chunks.m3u8
+http://192.168.0.78:8080/hls/luchytv/2_1/index.m3u8?tkn=2547537749
 #EXTINF:-1,Invasiva Media
 https://tv-omega-nine.vercel.app/hls/live.m3u8
 #EXTINF:-1,Magic Kids TV
